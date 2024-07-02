@@ -22,3 +22,20 @@ Record the outlier scores along with the respective parties and neighbouring uni
 Sort the dataset by the outlier scores for each party to identify the most significant outliers.
 Provide a detailed report explaining the methodology and findings.
 Highlight the top 3 outliers and their closest polling units, explaining why they are considered outliers.
+
+# Deliverables
+- Cleaned Dataset:
+A CSV file with added longitude and latitude values for each polling unit or ward.
+The dataset should include calculated outlier scores for each party in each polling unit and the neighboring units.
+An excel sheet showing a sorted list of polling units by outlier scores for each party.
+
+- Outlier Detection Report:
+A detailed report containing:
+Explanation of the methodology used for geospatial analysis and outlier detection.
+
+Summary of findings, including the sorted list of polling units by outlier scores for each party.
+
+Detailed examples of the top 3 outliers, with explanations and visualizations.
+
+A conclusion summarizing the findings, including key insights and visualizations.
+
